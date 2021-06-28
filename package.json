@@ -21,12 +21,12 @@
     "test:e2e": "jest --config ./test/jest-e2e.json"
   },
   "dependencies": {
-    "@nestjs/common": "^7.6.15",
+    "@nestjs/common": "^7.6.18",
     "@nestjs/config": "^0.6.3",
-    "@nestjs/core": "^7.6.15",
+    "@nestjs/core": "^7.6.18",
     "@nestjs/platform-express": "^7.6.15",
     "@typegoose/typegoose": "^7.6.1",
-    "mongoose": "^5.12.14",
+    "mongoose": "^5.13.0",
     "nestjs-typegoose": "^7.1.38",
     "pg": "^8.6.0",
     "pg-hstore": "^2.3.4",

@@ -10,5 +10,5 @@ export class AuthModel extends TimeStamps {
     email: string
 
     @prop()
-    password: string
+    passwordHash: string
 }
